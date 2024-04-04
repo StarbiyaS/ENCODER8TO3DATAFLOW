@@ -48,13 +48,13 @@ Figure 02  Encoder 8 * 3
 
 
 **PROGRAM**
-
+```
 /* Program for Encoder 8 To 3 in Dataflow Modelling and verify its truth table in quartus using Verilog programming. 
 
 Developed by:STARBIYA S RegisterNumber:212223040208
 */
 
-```
+
 module encoder(a0,a1,a2,d0,d1,d2,d3,d4,d5,d6,d7);
 input d0,d1,d2,d3,d4,d5,d6,d7;
 output a0,a1,a2;
@@ -65,6 +65,7 @@ endmodule
 ```
 
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
+
 ![image](https://github.com/StarbiyaS/ENCODER8TO3DATAFLOW/assets/144870533/bea4ea66-2b32-48a8-892f-691f0329dd2f)
 
 
