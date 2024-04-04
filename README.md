@@ -63,6 +63,7 @@ assign a1=d2|d3|d6|d7;
 assign a2=d4|d5|d6|d7;
 endmodule
 ```
+
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
 ![image](https://github.com/StarbiyaS/ENCODER8TO3DATAFLOW/assets/144870533/bea4ea66-2b32-48a8-892f-691f0329dd2f)
 
